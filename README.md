@@ -1,12 +1,12 @@
-📦 DataObjects: Verified Data Ownership, Secure Digital Claims, and Agreements
+**📦 DataObjects: Verified Data Ownership, Secure Digital Claims, and Agreements**
 
 🔹	Summary
-Name	DataObjects Framework
-Version	1.0
-Author	Ian Kelly
-Patent	Pending (Filed August 27, 2024)
-Primary Use Cases	Secure Data Ownership, Digital Identity, Cryptographically Verifiable Claims, Smart Contracts Enhancement
-Status	Active Development, Licensing under IDIO brand anticipated
+**Name	DataObjects Framework**
+**Version	1.0**
+**Author	Ian Kelly**
+**Patent	Pending (Filed August 27, 2024)**
+**Primary Use Cases	Secure Data Ownership, Digital Identity, Cryptographically Verifiable Claims, Smart Contracts Enhancement**
+**Status	Active Development, Licensing under IDIO brand anticipated**
 
 
 
